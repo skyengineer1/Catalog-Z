@@ -38,8 +38,6 @@ Showcasing:
 - 🔗 Easy navigation with sticky header and pagination
 - 🌐 Responsive design across devices
 
-![Preview of Catalog-Z](images/preview.png)
-
 ---
 
 **Note**: This template is inspired by Bootstrap layouts and can be freely integrated into any project. 🎉
